@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Snake animation](https://github.com/Sieele/sieele/blob/output/github-contribution-grid-snake.svg)
+
 -->
 
 
@@ -69,5 +72,4 @@ Here are some ideas to get you started:
 
 
 
-![Snake animation](https://github.com/Sieele/sieele/blob/output/github-contribution-grid-snake.svg)
 
